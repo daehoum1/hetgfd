@@ -1,4 +1,4 @@
-# HetGFD — reproduction code
+# HetGFD (ICLR 2025)
 
 Code for reproducing the experiments of
 
