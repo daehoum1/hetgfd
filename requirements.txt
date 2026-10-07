@@ -1,0 +1,10 @@
+# tested with python 3.12, torch 2.6.0 (CUDA 12.4) and torch 2.14 (CPU checks)
+torch>=2.2
+torch_geometric>=2.5
+numpy
+scipy
+scikit-learn
+pandas
+networkx
+gdown
+requests
